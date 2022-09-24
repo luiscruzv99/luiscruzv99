@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi! I'm Luis Cruz 👋
+
+A software engineering graduate from Santander, Spain. I'm currently finishing my masters in computer engineering at Universidad de Cantabria.
+
+- ### My Skills ⚡
+I have some experience with java, c, python and its deep learning platforms (mostly Pytorch).
+
+I also have a little experience working with some web technologies (mostly vanilla javascript, typescript and a little bit of angularJS).
+
 
 <!--
 **luiscruzv99/luiscruzv99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
